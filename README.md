@@ -30,7 +30,7 @@ This project is currently tested via Postman and supports full CRUD operations.
 ---
 
 ## 📁 Project Structure
-
+```
 │   go.mod
 │   go.sum
 │   main.go
@@ -53,7 +53,7 @@ This project is currently tested via Postman and supports full CRUD operations.
     │
     └───utils
             utils.go
-
+```
 ---
 
 ## 🚀 Getting Started
