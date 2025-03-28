@@ -94,9 +94,7 @@ gorm.Open("postgres", "host=localhost port=5432 user=postgres password=yourpassw
 ```bash
 go run main.go
 ```
-
-- Server will start on:
-
+Server will start on:
 ```bash
 http://localhost:8080
 ```
