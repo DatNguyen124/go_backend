@@ -61,8 +61,8 @@ This project is currently tested via Postman and supports full CRUD operations.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/bookstore-api.git
-cd bookstore-api
+git clone https://github.com/DatNguyen124/go_backend.git
+cd go_backend
 ```
 ---
 
